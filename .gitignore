@@ -1,0 +1,6 @@
+data/
+model_logs/
+models/
+OriginalDataLink.txt
+External Libraries/
+venv/

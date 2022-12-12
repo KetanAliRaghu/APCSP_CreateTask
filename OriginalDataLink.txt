@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/atharvjairath/empathetic-dialogues-facebook-ai
+^The link emotion-emotion_69k.csv was taken from (GenE & GenM)
+
+https://huggingface.co/datasets/emotion
+^The link tweet_emotions.csv was taken from (sentiment analysis)
